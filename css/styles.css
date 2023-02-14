@@ -215,10 +215,10 @@ img {
   text-align: center;
 }
 .hero-title {
+  width: 496px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 48px;
-  width: 496px;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
